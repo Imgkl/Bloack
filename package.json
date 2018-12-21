@@ -1,0 +1,11 @@
+{
+  "name": "bloack",
+  "version": "1.0.0",
+  "description": "A simple blockchain project using JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imgkl",
+  "license": "ISC"
+}
